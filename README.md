@@ -3,7 +3,9 @@ Online Examination System
 
 <strong><samp>Technology Used</samp></strong>
 - <samp>Front-End:</samp>
-<img src="/image/html-5.png" height="100" alt="1"> <img src="/image/css-3.png" height="100" alt="2"> <img src="/image/js.png" width="100" height="100" alt="3"> <img src="/image/bootstrap.png" width="100" height="100" alt="4">
+<img src="/image/html-5.png" height="100" alt="1"> <img src="/image/css-3.png" height="100" alt="2"> <img src="/image/js.png" height="100" alt="3"> <img src="/image/bootstrap.png" height="100" alt="4">
+- <samp>Front-End:</samp>
+<img src="/image/mysql.png" height="100" alt="1"> <img src="/image/php.png" height="100" alt="2"> 
 
 <strong><samp>prerequisites:</samp></strong>
 - [x] <samp>Install xampp/wamp/lamp/mamp server</samp>
